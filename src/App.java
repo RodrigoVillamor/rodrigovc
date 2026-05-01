@@ -4,6 +4,6 @@ public class App {
     }
 
     private static void saludar() {
-        System.out.println("Hola mundo conflicto");
+        System.out.println("Cambio en rama");
     }
 }
